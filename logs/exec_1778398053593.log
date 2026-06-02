@@ -1,0 +1,6 @@
+command=['python', '-c', 'import pathlib']
+return_code=-1
+timed_out=False
+--- stdout ---
+
+--- stderr ---

@@ -1,0 +1,7 @@
+command=['python', 'generated_project/main.py']
+return_code=-1
+timed_out=False
+--- stdout ---
+Jarvis Python project scaffold is ready.
+
+--- stderr ---

@@ -1,0 +1,7 @@
+command=['python', '-c', 'import pathlib']
+return_code=-1
+timed_out=False
+metrics={'samples': 1, 'max_cpu': 0.0, 'max_memory_mb': 2.1}
+--- stdout ---
+
+--- stderr ---
