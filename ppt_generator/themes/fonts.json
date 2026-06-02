@@ -1,0 +1,27 @@
+{
+  "modern": {
+    "title": "Aptos Display",
+    "body": "Aptos",
+    "caption": "Calibri"
+  },
+  "business": {
+    "title": "Aptos Display",
+    "body": "Calibri",
+    "caption": "Calibri"
+  },
+  "education": {
+    "title": "Trebuchet MS",
+    "body": "Calibri",
+    "caption": "Calibri"
+  },
+  "futuristic": {
+    "title": "Bahnschrift",
+    "body": "Aptos",
+    "caption": "Calibri"
+  },
+  "dark": {
+    "title": "Bahnschrift",
+    "body": "Aptos",
+    "caption": "Calibri"
+  }
+}

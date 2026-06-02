@@ -1,0 +1,202 @@
+[
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "go for the offline llm"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "hello jar"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "jarvis"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "are you able to use local"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "who is vivan"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "bro your sona"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "hi jar"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "who is mahendra singh dhoni"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "who is msd"
+  },
+  {
+    "role": "assistant",
+    "content": "All models failed."
+  },
+  {
+    "role": "user",
+    "content": "minimise code"
+  },
+  {
+    "role": "assistant",
+    "content": "HTTPConnectionPool(host='127.0.0.1', port=11434): Max retries exceeded with url: /api/chat (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=11434): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+  },
+  {
+    "role": "user",
+    "content": "tell me who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli (born 5 November 1988 in Delhi ) is an Indian cricketer who plays as a right-handed top-order batter . ... Virat Kohli becomes first ... ... Virat Kohli may have played perhaps the most crucial knock of his career in recent ... One response to \u201c Is Virat Kohli back in form? \u201d Virat Kohli, who has three golden ducks in this IPL, fell to the pace of Kagiso Rabada after he was caught at short fine leg."
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli. Virat Kohli is the most-followed Asian on Instagram. Read about Virat Kohli cricket player from India profile, stats, rankings, records, videos, photos at ESPNcricinfo. Virat Kohli father, Prem Kohli, had a key role in shaping the former India captain's life and career. A criminal lawyer by profession, Prem Kohli was a disciplined and principled man who believed in hard work and dedication."
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli (born 5 November 1988 in Delhi ) is an Indian cricketer who plays as a right-handed top-order batter . Virat Kohli becomes first Virat Kohli may have played perhaps the most crucial knock of his career in recent One response to \u201c Is Virat Kohli back in form? \u201d Virat Kohli, who has three golden ducks in this IPL, fell to the pace of Kagiso Rabada after he was caught at short fine leg."
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Read about Virat Kohli cricket player from India profile, stats, rankings, records, videos, photos at ESPNcricinfo. Virat Kohli father, Prem Kohli, had a key role in shaping the former India captain's life and career. A criminal lawyer by profession, Prem Kohli was a disciplined and principled man who believed in hard work and dedication. Virat Kohli born 5 November 1988 is an Indian international cricketer and former captain of the India national cricket team. He plays for Delhi in domestic cricket and Royal Challengers Bangalore in the Indian Premier League as a right-handed batsman."
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Read about Virat Kohli cricket player from India profile, stats, rankings, records, videos, photos at ESPNcricinfo. Virat Kohli born 5 November 1988 is an Indian international cricketer and former captain of the India national cricket team. He plays for Delhi in domestic cricket and Royal Challengers Bangalore in the Indian Premier League as a right-handed batsman. About Virat Kohli/ Who is Virat Kohli ? Virat Kohli is an Indian international cricketer and present Indian national team captain in all formats."
+  },
+  {
+    "role": "user",
+    "content": "who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli (born 5 November 1988 in Delhi ) is an Indian cricketer who plays as a right-handed top-order batter . Virat Kohli becomes first Virat Kohli may have played perhaps the most crucial knock of his career in recent One response to \u201c Is Virat Kohli back in form? \u201d Virat Kohli, who has three golden ducks in this IPL, fell to the pace of Kagiso Rabada after he was caught at short fine leg."
+  },
+  {
+    "role": "user",
+    "content": "tell me who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli[a] (born 5 November 1988) is an Indian international cricketer and the former all-format captain of the Indian national cricket team. [3] He is a right-handed batter and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he has been acclaimed for his batting skills, records and ability to lead his team to victory Virat Kohli (b. 1988) is an Indian international cricketer and a former captain of the Indian cricket team in all three international formats. Kohli plays for (and previously captained) the Royal Challengers Bangalore (RCB) in the Indian Premier League (IPL). Kohli is considered by many as one of the greatest batsmen in the history of the game. He is also one of the most successful captains Virat Kohli Biography: \"To become a good player, you need talent. To become a great player, you need an attitude like Virat Kohli's,\" - Sunil Gavaskar, former Indian cricket legend. Here we start the Virat Kohli biography which includes all the details about him. There are some whose consistent success is admired by everyone. And then, there are others, who are so successful and"
+  },
+  {
+    "role": "user",
+    "content": "tell me who is virat kohli"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli[a] (born 5 November 1988) is an Indian international cricketer and the former all-format captain of the Indian national cricket team. [3] He is a right-handed batter and occasional right-arm medium pace bowler. Apr 2, 2026 \u00b7 Virat Kohli (born November 5, 1988, Delhi, India) is an Indian international cricketer considered by many as one of the greatest batsmen in the history of the game. Kohli plays for (and previously captained) the Royal Challengers Bengaluru (RCB) in the Indian Premier League (IPL). Kohli is a world champion multiple times over, having captained India to the 2008 Under-19 World Cup title and winning four more ICC trophies with the senior side: the 50-over World Cup in 2011 Dec 24, 2025 \u00b7 Virat Kohli Biography: The title \u2018Chase Master Kohli\u2019 which has been conferred to Virat Kohli is more than enough to describe his ODI career. There have been very few in the history of cricket with such a level of consistency. Show more Feb 20, 2011 \u00b7 Kohli soon turned into a fan favourite even as runs flowed from his bat and eventually becoming the leading-run scorer in the history of IPL. View all Jun 17, 2025 \u00b7 When you think of modern cricket, one name instantly stands out: Virat Kohli. From his explosive debut to years of unmatched performance across all formats, Kohli has become a symbol of passion, power, and consistency. Fans often call him the GOAT of cricket \u2014 and now, there\u2019s no debate. RCB signed up Virat Kohli after the youngster led India to victory in the U-19 World Cup in 2008. Since then he has been part of the Bangalore franchise and a fan favourite."
+  },
+  {
+    "role": "user",
+    "content": "tell me the time"
+  },
+  {
+    "role": "assistant",
+    "content": "Just Tell Me I Can't: How Jamie Moyer Defied the Radar Gun and Defeated Time is a 2013 memoir by Major League Baseball pitcher Jamie Moyer, co-authored with Larry Platt and published by Grand Central Publishing. The book chronicles Moyer's 25-year m\u2026 Using the app to give you voice announcements means you do not have to watch the clock to know the current time. Currently, the first version of the application has a bundle of Vietnamese, English, Hindi, Japanese languages, and in subsequent upgrades the developer will add other language packs. December 17, 2025 - Speaking Clock: TellMeTheTime is a versatile utility app designed for users who need to know the current time without looking at their devices."
+  },
+  {
+    "role": "user",
+    "content": "jar"
+  },
+  {
+    "role": "assistant",
+    "content": "A jar is a rigid, cylindrical, or slightly conical container, typically made of glass, ceramic, or plastic, with a wide mouth or opening that can be closed with a lid, screw cap, lug cap, cork stopper, roll-on cap, crimp-on cap, press-on cap, plastic shrink, heat-sealed lidding film, an inner seal, a tamper-evident band, or other suitable means. The English word \"jar\" originates from the Arabic word jarra, which means an earthen pot or vessel. January 10, 2026 - A JAR (\"Java archive\") file is a package file format typically used to aggregate many Java class files and associated metadata and resources (text, images, etc.) into one file for distribution. A jar is a rigid, cylindrical or slightly conical container, typically made of glass, earthenware, ceramic, or plastic, featuring a wide mouth for easy access and often sealed with a lid or"
+  },
+  {
+    "role": "user",
+    "content": "tell me the time"
+  },
+  {
+    "role": "assistant",
+    "content": "Just Tell Me I Can't: How Jamie Moyer Defied the Radar Gun and Defeated Time is a 2013 memoir by Major League Baseball pitcher Jamie Moyer, co-authored with Larry Platt and published by Grand Central Publishing. The book chronicles Moyer's 25-year m\u2026 Using the app to give you voice announcements means you do not have to watch the clock to know the current time. Currently, the first version of the application has a bundle of Vietnamese, English, Hindi, Japanese languages, and in subsequent upgrades the developer will add other language packs. December 17, 2025 - Speaking Clock: TellMeTheTime is a versatile utility app designed for users who need to know the current time without looking at their devices."
+  },
+  {
+    "role": "user",
+    "content": "jar"
+  },
+  {
+    "role": "assistant",
+    "content": "A jar is a rigid, cylindrical, or slightly conical container, typically made of glass, ceramic, or plastic, with a wide mouth or opening that can be closed with a lid, screw cap, lug cap, cork stopper, roll-on cap, crimp-on cap, press-on cap, plastic shrink, heat-sealed lidding film, an inner seal, a tamper-evident band, or other suitable means. The English word \"jar\" originates from the Arabic word jarra, which means an earthen pot or vessel. A JAR file is a package file format for Java class files and resources. Learn about its design, features, security, manifest, and how to run executable JAR files. A jar is a rigid, cylindrical or slightly conical container, typically made of glass, earthenware, ceramic, or plastic, featuring a wide mouth for easy access and often sealed with a lid or"
+  },
+  {
+    "role": "user",
+    "content": "shut up jana"
+  },
+  {
+    "role": "assistant",
+    "content": "\"Shut Up and Dance\" (stylized as \"SHUT UP + DANCE\") is a song by American pop rock band Walk the Moon from their third studio album Talking Is Hard (2014). It was written by the band members and songwriters Ben Berger and Ryan McMahon. The song is based on an experience lead singer Nicholas Petricca had at a Los Angeles nightclub. His girlfriend invited him to dance, inspiring the title. Petricca envisioned the song as an anthem for letting go of frustration and having fun. The song was digitally released as the lead single from Talking Is Hard on September 10, 2014.The song became the band's biggest hit single to date, peaking at number four on the Billboard Hot 100 and becoming a number-one hit on the magazine's Alternative Songs chart and the Hot Adult Contemporary chart. Outside of the United States, \"Shut Up and Dance\" topped the charts in Poland, peaked within the top ten of the charts in Australia, Canada, Germany, Israel, the Republic of Ireland, and the United Kingdom, the top 20 of the charts in New Zealand and Sweden, and the top 30 of the charts in the Netherlands. The band has performed \"Shut Up and Dance\" on The Tonight Show Starring Jimmy Fallon, Late Night with Seth Meyers, Jimmy Kimmel Live!, The Ellen DeGeneres Show and Good Morning America. Click to read shut up jana, a Substack publication. Launched a year ago. March 2025 let's not fuck in your childhood bedroom original poem Mar 29\u2022 shut up jana"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "business",
+  "surface": "structured",
+  "chart_style": "boardroom",
+  "visual_mood": "confident",
+  "corner_radius": 0.12,
+  "hero_alignment": "left"
+}

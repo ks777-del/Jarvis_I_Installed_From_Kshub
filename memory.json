@@ -1,0 +1,24 @@
+[
+  {
+    "text": "Jarvis memory test",
+    "tags": [
+      "test"
+    ],
+    "ts": 1777110176
+  },
+  {
+    "text": "jarvis secure memory",
+    "tags": [
+      "secure"
+    ],
+    "ts": 1777110932
+  },
+  {
+    "text": "Jarvis remembers Ravi likes fast builds",
+    "tags": [
+      "user",
+      "prefs"
+    ],
+    "ts": 1777112110
+  }
+]

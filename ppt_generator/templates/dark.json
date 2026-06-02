@@ -1,0 +1,8 @@
+{
+  "name": "dark",
+  "surface": "glow",
+  "chart_style": "contrast",
+  "visual_mood": "sleek",
+  "corner_radius": 0.18,
+  "hero_alignment": "left"
+}

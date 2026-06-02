@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jarvis HUD</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div id="app">
+        <div id="grid"></div>
+        <div id="particles"></div>
+
+        <div class="panel left">
+            <h3>System</h3>
+            <ul>
+                <li>Core: Online</li>
+                <li>Network: Secure</li>
+                <li>Threat: None</li>
+                <li>Power: 98%</li>
+            </ul>
+        </div>
+
+        <div class="panel right">
+            <h3>Telemetry</h3>
+            <ul>
+                <li>Mode: Assist</li>
+                <li>Mic: Active</li>
+                <li>Latency: Low</li>
+                <li>Audio: Stable</li>
+            </ul>
+            <h3>Games</h3>
+            <ul id="games-list">
+                <li>Open Minecraft</li>
+                <li>Open Calculator</li>
+                <li>Open AI and Robotics</li>
+                <li>Open Christmas 2025</li>
+            </ul>
+        </div>
+
+        <div id="hud-wrap">
+            <div id="hud">
+                <div class="ring ring-a"></div>
+                <div class="ring ring-b"></div>
+                <div class="ring ring-c"></div>
+                <div class="ring ring-d"></div>
+                <div id="core"></div>
+                <div id="hud-label">JARVIS</div>
+            </div>
+            <div id="status">Idle</div>
+        </div>
+
+        <div id="task-wrap">
+            <div id="task">System ready.</div>
+            <div id="waveform"></div>
+        </div>
+
+        <div id="message-log"></div>
+
+        <div id="input-wrap">
+            <input id="command-input" type="text" placeholder="Type a command..." />
+            <button id="send-btn" type="button">Send</button>
+            <button id="new-chat-btn" type="button">New Chat</button>
+            <button id="file-upload-btn" type="button">Upload File</button>
+            <button id="ppt-btn" type="button">Make PPT</button>
+            <button id="settings-btn" type="button">Settings</button>
+        </div>
+        <div id="loader" class="hidden">Working...</div>
+        <div id="progress-wrap" class="hidden">
+            <div id="progress-bar"></div>
+        </div>
+        <div id="download-wrap" class="hidden">
+            <button id="download-btn" type="button">Download PPT</button>
+        </div>
+    </div>
+
+    <script src="qrc:///qtwebchannel/qwebchannel.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
