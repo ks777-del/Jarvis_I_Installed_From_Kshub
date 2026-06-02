@@ -1,0 +1,13 @@
+{
+  "name": "javascript_app",
+  "files": [
+    {
+      "path": "generated_project/package.json",
+      "content": "{\n  \"name\": \"jarvis-generated-js\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  }\n}\n"
+    },
+    {
+      "path": "generated_project/index.js",
+      "content": "console.log('Jarvis JavaScript project scaffold is ready.');\n"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "Use async queues for long-running tasks.",
+    "Cache expensive analysis outputs.",
+    "Avoid repeated dependency installation checks.",
+    "Use incremental build/test loops.",
+    "Track runtime CPU/memory and enforce timeouts."
+  ]
+}

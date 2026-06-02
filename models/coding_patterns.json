@@ -1,0 +1,7 @@
+{
+  "patterns": [
+    {"name": "service_repository", "description": "Use service layer for business logic and repository layer for persistence."},
+    {"name": "event_driven_ui", "description": "UI events trigger backend handlers through explicit bridges and validated payloads."},
+    {"name": "modular_monolith", "description": "Partition by domain modules with clear interfaces before distributed decomposition."}
+  ]
+}

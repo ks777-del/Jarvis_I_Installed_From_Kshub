@@ -1,0 +1,7 @@
+{
+  "patterns": [
+    {"name": "fixed_timestep_loop", "description": "Use deterministic timestep updates for gameplay stability."},
+    {"name": "component_system", "description": "Separate rendering, physics, and control components."},
+    {"name": "state_machine", "description": "Use explicit game state transitions for menus, play, pause, and fail states."}
+  ]
+}

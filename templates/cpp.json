@@ -1,0 +1,9 @@
+{
+  "name": "cpp_app",
+  "files": [
+    {
+      "path": "generated_project/main.cpp",
+      "content": "#include <iostream>\n\nint main() {\n    std::cout << \"Jarvis C++ project scaffold is ready.\" << std::endl;\n    return 0;\n}\n"
+    }
+  ]
+}

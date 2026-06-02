@@ -1,0 +1,8 @@
+command=['python', 'generated_project/main.py']
+return_code=-1
+timed_out=False
+metrics={'samples': 1, 'max_cpu': 0.0, 'max_memory_mb': 2.49}
+--- stdout ---
+Jarvis Python project scaffold is ready.
+
+--- stderr ---

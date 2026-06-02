@@ -1,0 +1,9 @@
+{
+  "name": "desktop_tool",
+  "files": [
+    {
+      "path": "generated_project/tool/main.py",
+      "content": "from __future__ import annotations\n\nimport tkinter as tk\n\n\ndef main() -> None:\n    root = tk.Tk()\n    root.title('Jarvis Desktop Tool')\n    root.geometry('680x420')\n    label = tk.Label(root, text='Jarvis Desktop Tool Ready', font=('Segoe UI', 18))\n    label.pack(pady=50)\n    root.mainloop()\n\n\nif __name__ == '__main__':\n    main()\n"
+    }
+  ]
+}

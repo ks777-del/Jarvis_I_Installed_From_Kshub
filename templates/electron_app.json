@@ -1,0 +1,17 @@
+{
+  "name": "electron_app",
+  "files": [
+    {
+      "path": "generated_project/electron/package.json",
+      "content": "{\n  \"name\": \"jarvis-electron-app\",\n  \"version\": \"1.0.0\",\n  \"main\": \"main.js\",\n  \"scripts\": {\n    \"start\": \"electron .\",\n    \"build\": \"echo Build step configured\"\n  },\n  \"devDependencies\": {\n    \"electron\": \"^31.0.0\"\n  }\n}\n"
+    },
+    {
+      "path": "generated_project/electron/main.js",
+      "content": "const { app, BrowserWindow } = require('electron');\n\nfunction createWindow() {\n  const win = new BrowserWindow({ width: 1200, height: 760 });\n  win.loadFile('index.html');\n}\n\napp.whenReady().then(createWindow);\n"
+    },
+    {
+      "path": "generated_project/electron/index.html",
+      "content": "<!doctype html><html><head><meta charset='utf-8'><title>Jarvis Electron</title></head><body><h1>Jarvis Electron App</h1></body></html>"
+    }
+  ]
+}

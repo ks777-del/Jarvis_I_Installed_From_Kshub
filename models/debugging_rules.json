@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "Reproduce issue before patching.",
+    "Identify exact root cause and affected files.",
+    "Apply minimal safe fix with rollback path.",
+    "Re-run syntax and runtime validation.",
+    "Capture logs and summarize residual risk."
+  ]
+}

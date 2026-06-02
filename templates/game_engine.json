@@ -1,0 +1,9 @@
+{
+  "name": "game_engine",
+  "files": [
+    {
+      "path": "generated_project/game/main.py",
+      "content": "from __future__ import annotations\n\nimport pygame\n\n\ndef main() -> None:\n    pygame.init()\n    screen = pygame.display.set_mode((1280, 720))\n    pygame.display.set_caption('Jarvis Game Engine Prototype')\n    clock = pygame.time.Clock()\n\n    x, y = 640, 360\n    vx, vy = 0, 0\n    accel = 0.7\n    damping = 0.86\n    running = True\n\n    while running:\n        for event in pygame.event.get():\n            if event.type == pygame.QUIT:\n                running = False\n\n        keys = pygame.key.get_pressed()\n        if keys[pygame.K_a]:\n            vx -= accel\n        if keys[pygame.K_d]:\n            vx += accel\n        if keys[pygame.K_w]:\n            vy -= accel\n        if keys[pygame.K_s]:\n            vy += accel\n\n        vx *= damping\n        vy *= damping\n        x += vx\n        y += vy\n\n        screen.fill((12, 14, 20))\n        pygame.draw.circle(screen, (64, 220, 255), (int(x), int(y)), 28)\n        pygame.display.flip()\n        clock.tick(60)\n\n    pygame.quit()\n\n\nif __name__ == '__main__':\n    main()\n"
+    }
+  ]
+}

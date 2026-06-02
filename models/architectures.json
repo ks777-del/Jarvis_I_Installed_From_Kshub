@@ -1,0 +1,7 @@
+{
+  "architectures": [
+    {"name": "modular", "traits": ["separated concerns", "domain modules", "stable interfaces"]},
+    {"name": "layered", "traits": ["presentation", "service", "infrastructure"]},
+    {"name": "event_driven", "traits": ["message bus", "asynchronous handlers", "decoupled workflows"]}
+  ]
+}
